@@ -1,5 +1,7 @@
 # Ollama Vector Search for Obsidian
 
+> Note: I no longer maintain this plugin. It worked when I built it, but I do not plan to update it.
+
 This plugin enables semantic search across your Obsidian vault using Ollama's embedding models. It creates vector embeddings of your notes and allows you to search for content based on meaning rather than just keywords.
 
 ## Prerequisites
